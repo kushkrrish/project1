@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:  sans-serif;
+    color: #fff ; 
+}
+html, 
+body{
+    height: 100%;
+    width: 100%;
+   
+
+}
+#page1{
+    height:100vh;
+    width:100%;
+    background-color: bisque;
+}
+#page2{
+    height:100vh;
+    width:100%;
+    background-color: burlywood;
+}
+#page3{
+    height:100vh;
+    width:100%;
+    background-color: red;
+}
